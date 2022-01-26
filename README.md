@@ -1,7 +1,7 @@
 # TrafficSignRecognition_PyTorch
 
 <div align="center">
-    <img src="trafficsign.jpeg" alt="Logo" width="200" height="200">
+    <img src="trafficsign.jpeg" alt="Logo" width="300" height="300">
 </div>
 
 Traffic Sign Recognition on GTSRB dataset using PyTorch.
