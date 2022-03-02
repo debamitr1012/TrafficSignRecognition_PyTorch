@@ -16,19 +16,19 @@ Wait for the Issue to be assigned to you after which you can start working on it
 # Step 2 : Fork the Project
 Fork this Repository.This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.
 
-$ git clone https://github.com/rimsha-salahuddin/TrafficSignRecognition_PyTorch.git
+$ git clone https://github.com/username/TrafficSignRecognition_PyTorch.git
 
 $ cd TrafficSignRecognition_PyTorch.git
 
-$ git remote add upstream https://github.com/rimsha-salahuddin/TrafficSignRecognition_PyTorch.git
+$ git remote add upstream https://github.com/username/TrafficSignRecognition_PyTorch.git
 
 **If you have already forked the project, update your copy before working.**
 
 $ git remote update
 
-$ git checkout <branch-name>
+$ git checkout branch-name
     
-$ git rebase upstream/<branch-name>
+$ git rebase upstream/branch-name
     
 # Step 3 : Creating Branch
 Create a new branch. Use its name to identify the issue your addressing.
@@ -73,3 +73,13 @@ $ git push -u origin Branch_Name
 Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
 
 Your Pull Request has been submitted and will be reviewed by the moderators and merged.
+
+# You can refer to the following articles on the basics of Git and Github.
+
+-Forking a Repo https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo
+
+-Cloning a Repo https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request
+
+-How to create a Pull Request https://opensource.com/article/19/7/create-pull-request-github
+
+-Getting started with Git and GitHub https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
