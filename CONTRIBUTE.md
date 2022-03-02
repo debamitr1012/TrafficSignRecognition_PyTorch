@@ -1,30 +1,33 @@
-Contributing Guidelines:
+**Contribution Guidelines**
+
 This documentation contains a set of guidelines to help you during the contribution process.
 We are happy to welcome all the contributions from anyone willing to improve/add new scripts to this project.
 Thank you for helping out and remember, no contribution is too small.
 
-Submitting Contributions:
+**Submitting Contributions:**
 Below you will find the process and workflow used to review and merge your changes.
 
-Step 1 : Find an issue
-Take a look at the Existing Issues or create your own Issues!
+**Step 1 : Find an issue**
+-Take a look at the Existing Issues or create your own Issues!
 Wait for the Issue to be assigned to you after which you can start working on it.
 Note : Every change in this project should/must have an associated issue
 
-Step 2 : Fork the Project
-Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.
+**Step 2 : Fork the Project**
+
+Fork this Repository.This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.
+
 $ git clone https://github.com/rimsha-salahuddin/TrafficSignRecognition_PyTorch.git
 $ cd TrafficSignRecognition_PyTorch.git
 $ git remote add upstream https://github.com/rimsha-salahuddin/TrafficSignRecognition_PyTorch.git
 
--If you have already forked the project, update your copy before working.
+If you have already forked the project, update your copy before working.
 $ git remote update
 $ git checkout <branch-name>
 $ git rebase upstream/<branch-name>
-
-Step 3 : Branch
+    
+**Step 3 : Branch**
 Create a new branch. Use its name to identify the issue your addressing.
-
+    
 # It will create a new branch with name Branch_Name and switch to that branch
 $ git checkout -b branch_name
 
