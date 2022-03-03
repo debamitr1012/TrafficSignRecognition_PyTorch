@@ -33,7 +33,6 @@ git clone https://github.com/debamitr1012/TrafficSignRecognition_PyTorch
 ```
 
 
-
 #### <ins> Step 2: Creating a New Branch </ins>
 It is important to branch the repository so that you can manage the workflow, isolate your code, and control what features make it back to the main branch of the project repository.
  
@@ -102,3 +101,15 @@ GitHub will alert you that you can merge the two branches because there is no co
 You have made your contributions. Kudos to you!! 🎉✌🏻🙌🏻
 
 <hr> </hr>
+
+## Our Top Contributors
+
+
+<a href="https://github.com/debamitr1012/TrafficSignRecognition_PyTorch/contributors">
+  <img src="https://contrib.rocks/image?repo=debamitr1012/TrafficSignRecognition_PyTorch" />
+</a>
+
+ <br> <br>
+ 
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/debamitr1012/TrafficSignRecognition_PyTorch)
